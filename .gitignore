@@ -1,0 +1,7 @@
+*.pkl
+*.png
+*.gif
+LORENZ63.py
+test*
+class*test*
+class*check*
