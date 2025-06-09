@@ -3,8 +3,8 @@
 *.gif
 LORENZ63.py
 test*
+gen_ana_ens_tests.ipynb
 class_cse_checks2.py
 gen_ana_ens_checks2.ipynb
-gen_ana_ens_tests.ipynb
 gen_ana_ens_tests2.ipynb
 class_Lorenz63_test.py
