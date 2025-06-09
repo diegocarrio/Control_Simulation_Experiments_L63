@@ -1,6 +1,7 @@
 *.pkl
 *.png
 *.gif
+.gitignore
 LORENZ63.py
 test*
 gen_ana_ens_tests.ipynb
